@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow Mac",
+  "slug": "mac",
+  "short": "Mac",
+  "hero": "Make your Mac work the way you need.",
+  "description": "Practical macOS help for storage, connectivity, apps and privacy.",
+  "accent": "#485b74",
+  "topics": [
+    "Storage",
+    "Connectivity",
+    "App permissions",
+    "Backups",
+    "Display and sound",
+    "Updates"
+  ],
+  "url": "https://mac.guidehollow.com/",
+  "launchReady": false
+}
