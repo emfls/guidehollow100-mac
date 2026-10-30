@@ -14,7 +14,8 @@
     "macOS 업데이트"
   ],
   "url": "https://mac.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "맥·macOS 문제 해결",
-  "pageTitle": "맥북·macOS 문제 해결 가이드 | GuideHollow"
+  "pageTitle": "맥북·macOS 문제 해결 가이드 | GuideHollow",
+  "adsReady": false
 }
