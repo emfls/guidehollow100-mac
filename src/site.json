@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow Mac",
+  "title": "GuideHollow",
   "slug": "mac",
-  "short": "Mac",
-  "hero": "Make your Mac work the way you need.",
-  "description": "Practical macOS help for storage, connectivity, apps and privacy.",
+  "short": "맥",
+  "hero": "맥에서 막히는 설정과 오류, 기본부터 확인하세요.",
+  "description": "macOS 저장 공간, 와이파이·블루투스, 앱 권한, 백업과 업데이트 문제를 쉽게 설명합니다.",
   "accent": "#485b74",
   "topics": [
-    "Storage",
-    "Connectivity",
-    "App permissions",
-    "Backups",
-    "Display and sound",
-    "Updates"
+    "저장 공간·파일",
+    "와이파이·블루투스",
+    "앱 권한·보안",
+    "타임머신 백업",
+    "화면·오디오",
+    "macOS 업데이트"
   ],
   "url": "https://mac.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "맥·macOS 문제 해결",
+  "pageTitle": "맥북·macOS 문제 해결 가이드 | GuideHollow"
 }
